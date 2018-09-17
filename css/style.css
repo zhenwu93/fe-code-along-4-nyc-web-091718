@@ -127,3 +127,11 @@ section {
   padding: 20px;
   margin-bottom: 20px;
 }
+
+/*////////// LAYOUT //////////*/
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
